@@ -6,9 +6,9 @@
 
 // Template ID, Device Name and Auth Token are provided by the Blynk.Cloud
 // See the Device Info tab, or Template settings
-#define BLYNK_TEMPLATE_ID           "TMPL27O5CSe3"
-#define BLYNK_DEVICE_NAME           "Quickstart Device"
-#define BLYNK_AUTH_TOKEN            "DDK5NO2LIc6ENj1gliN1p3uOGdDUEAGS"
+#define BLYNK_TEMPLATE_ID           "-"
+#define BLYNK_DEVICE_NAME           "-"
+#define BLYNK_AUTH_TOKEN            "-"
 #include <SoftwareSerial.h>
 #include <ESP8266WiFi.h>
 #include <BlynkSimpleEsp8266.h>
