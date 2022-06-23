@@ -8,6 +8,7 @@
 **The Main unit does not send any data unless it's first asked for data.  (With no WiFi comm, the TX/RX leads are dead silent.)  Checksum is the simple addition of all bytes in the packet AFTER the 0xAA header byte.**
 
 ![](https://github.com/lasitha-sparrow/Makeskyblue_wifi_Controller/blob/37e5ec2279ea984477610c4dc7a6a849a5fc0c81/IMG_6206.thumb.jpg.56e7d0516834359178ca17548227b3c5.jpg)
+![](https://github.com/lasitha-sparrow/Makeskyblue_wifi_Controller/blob/e7d748f90985f33c523ca77f06d4d4d3a4b3c2f2/Untitled%20Sketch%202_bb.jpg)
 
 it is observed the following "master output" data packets:
 
